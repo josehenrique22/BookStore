@@ -1,0 +1,14 @@
+C:\C#\book_store_manager\bin\Debug\net10.0\book_store_manager.exe
+C:\C#\book_store_manager\bin\Debug\net10.0\book_store_manager.deps.json
+C:\C#\book_store_manager\bin\Debug\net10.0\book_store_manager.runtimeconfig.json
+C:\C#\book_store_manager\bin\Debug\net10.0\book_store_manager.dll
+C:\C#\book_store_manager\bin\Debug\net10.0\book_store_manager.pdb
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.AssemblyInfoInputs.cache
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.AssemblyInfo.cs
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.csproj.CoreCompileInputs.cache
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.dll
+C:\C#\book_store_manager\obj\Debug\net10.0\refint\book_store_manager.dll
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.pdb
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.genruntimeconfig.cache
+C:\C#\book_store_manager\obj\Debug\net10.0\ref\book_store_manager.dll
