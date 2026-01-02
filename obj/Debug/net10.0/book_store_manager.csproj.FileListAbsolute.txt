@@ -12,3 +12,4 @@ C:\C#\book_store_manager\obj\Debug\net10.0\refint\book_store_manager.dll
 C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.pdb
 C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.genruntimeconfig.cache
 C:\C#\book_store_manager\obj\Debug\net10.0\ref\book_store_manager.dll
+C:\C#\book_store_manager\obj\Debug\net10.0\book_store_manager.sourcelink.json

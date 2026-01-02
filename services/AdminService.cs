@@ -5,7 +5,6 @@ namespace Services;
 
 public class AdminService : ISaldo
 {
-
     private readonly ClientDTO _adminRegisterInformation =
          new AdminDTO(true, "admin", "admin");
 
